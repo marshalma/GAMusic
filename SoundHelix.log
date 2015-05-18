@@ -1,0 +1,24 @@
+2015-05-18 14:22:45,544 INFO  [main     ] VersionUtils                  : SoundHelix ??? (r???), built on ??? *** http://www.soundhelix.com
+2015-05-18 14:22:45,548 INFO  [Generator] SongUtils                     : Loading XML data from URL "file:/Users/mashuo/Development/JavaProjects/GAMusic/./ConfigXML/SoundHelix-Piano.xml"
+2015-05-18 14:22:45,629 INFO  [Generator] SongUtils                     : Song name: "Organized and methodical"
+2015-05-18 14:22:45,831 INFO  [Generator] ActivityMatrix                : Song's activity matrix:
+     Section #: 000000000011111111112222
+                012345678901234567890123
+===============================================
+      arpeggio: -***--**********---**---  62.5%
+        accomp: ****************--------  66.7%
+        melody: -----***-----**---------  20.8%
+base_and_snare: ---********---********--  66.7%
+         hihat: -------**-*******-*****-  58.3%
+           pad: -----***------***--*****  45.8%
+          bass: ------***************---  62.5%
+    randombass: --*******-**********----  70.8%
+===============================================
+      # active: 123435786465568753465321
+2015-05-18 14:22:47,002 INFO  [main     ] MidiPlayer                    : Song length: 3072 ticks (341 seconds @ 135.0 BPM)
+2015-05-18 14:22:47,003 INFO  [main     ] MidiPlayer                    : Tick:     0   Chord section:   0   Seconds:    0   Progress:   0.0 %
+2015-05-18 14:23:01,225 INFO  [main     ] MidiPlayer                    : Tick:   128   Chord section:   1   Seconds:   14   Progress:   4.2 %
+2015-05-18 14:23:15,447 INFO  [main     ] MidiPlayer                    : Tick:   256   Chord section:   2   Seconds:   28   Progress:   8.3 %
+2015-05-18 14:23:29,672 INFO  [main     ] MidiPlayer                    : Tick:   384   Chord section:   3   Seconds:   42   Progress:  12.5 %
+2015-05-18 14:23:43,894 INFO  [main     ] MidiPlayer                    : Tick:   512   Chord section:   4   Seconds:   56   Progress:  16.7 %
+2015-05-18 14:23:58,113 INFO  [main     ] MidiPlayer                    : Tick:   640   Chord section:   5   Seconds:   71   Progress:  20.8 %
